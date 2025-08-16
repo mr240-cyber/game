@@ -1,0 +1,5 @@
+{
+  "name": "Fruit Match-3 Game UI",
+  "description": "A mobile UI concept for a fruit-themed match-3 puzzle game with a cash withdrawal feature, showcasing integration with DANA and OVO payment gateways.",
+  "requestFramePermissions": []
+}
